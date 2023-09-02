@@ -1,4 +1,3 @@
-![logo](https://github.com/Sapna1921157/Sapna1921157/blob/main/code1.jpg)
 <h1 align="center">Hi 👋, I'm Sapna Kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
