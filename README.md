@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapna1921157&label=Profile%20views&color=0e75b6&style=flat" alt="sapna1921157" /> </p>
 
-- 🌱 I’m currently learning **MEAN Stack**
-
 - 👨‍💻 All of my projects are available at [https://sapna1921157.github.io/portfolio.github.io/](https://sapna1921157.github.io/portfolio.github.io/)
 
 - 📫 How to reach me **sdhar2227@gmail.com**
